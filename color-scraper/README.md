@@ -10,4 +10,4 @@ It extracts the color names and their respective hexcode, it then converts the h
  * Run `pip install -r requirements,txt`
  * Use the scraper -`python color-scraper.py`
 
-> Written with [StackEdit](https://stackedit.io/).
+
