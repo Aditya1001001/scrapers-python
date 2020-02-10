@@ -21,6 +21,7 @@ tags = soup('th')
 # print(len(tags))
 with open('colors.csv', 'w', newline='') as file:
     writer = csv.writer(file)
+    writer.writerow(["Color_Name", "Hex", "R", "G", "B"])
     for i in range(len(tags)):
         content = tags[i].text
         if content[0] == "#":    
