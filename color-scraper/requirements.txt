@@ -1,4 +1,4 @@
-﻿absl-py==0.8.1
+absl-py==0.8.1
 asn1crypto==0.24.0
 astor==0.8.0
 astroid==2.2.5
@@ -34,7 +34,7 @@ pyasn1-modules==0.2.7
 pycodestyle==2.5.0
 pycparser==2.19
 pylint==2.3.1
-pyOpenSSL==19.0.0
+pyOpenSSL==26.0.0
 pypiwin32==223
 PySocks==1.7.0
 pyttsx3==2.71
