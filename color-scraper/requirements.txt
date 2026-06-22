@@ -1,4 +1,4 @@
-﻿absl-py==0.8.1
+absl-py==0.8.1
 asn1crypto==0.24.0
 astor==0.8.0
 astroid==2.2.5
@@ -23,7 +23,7 @@ Keras==2.3.1
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 lazy-object-proxy==1.4.1
-Markdown==3.1.1
+Markdown==3.8.1
 mccabe==0.6.1
 numpy==1.17.4
 oauthlib==3.1.0
